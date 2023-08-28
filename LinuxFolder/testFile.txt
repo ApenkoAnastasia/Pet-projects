@@ -1,2 +1,3 @@
 This text were made from second OS for just testing it.
 Testing some stuff on Git.
+This line were made from Windows OS. Just for check.
